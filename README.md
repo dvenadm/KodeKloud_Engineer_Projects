@@ -64,6 +64,7 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
 | stmail01    | Nautilus Mail Server     | `sshpass -p Gr00T123 ssh -o StrictHostKeyChecking=no groot@172.16.238.17`   |
 | jenkins     | Jenkins Server for CI/CD | `sshpass -p 'j@rv!s' ssh -o StrictHostKeyChecking=no jenkins@172.16.238.19` |
 | ----------- | ------------------------ | --------------------------------------------------------------------------- |
+---
 
 # Getting Started
 
