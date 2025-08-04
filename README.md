@@ -63,6 +63,19 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
 | stbkp01     | Nautilus Backup Server   | `sshpass -p H@wk3y3 ssh -o StrictHostKeyChecking=no clint@172.16.238.16`    |
 | stmail01    | Nautilus Mail Server     | `sshpass -p Gr00T123 ssh -o StrictHostKeyChecking=no groot@172.16.238.17`   |
 | jenkins     | Jenkins Server for CI/CD | `sshpass -p 'j@rv!s' ssh -o StrictHostKeyChecking=no jenkins@172.16.238.19` |
+| ----------- | ------------------------ | --------------------------------------------------------------------------- |
 
 # Getting Started
+
+## Jumb Server Information
+
+- Jumphost: `CentOS 8`
+    - user: `thor`
+    - password: `mjolnir123`
+    - hostname: `jump_host.stratos.xfusioncorp.com`
+    - purpose: `Jump Server to Access Stork DC`
+
+
+
+
 
