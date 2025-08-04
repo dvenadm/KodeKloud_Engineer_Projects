@@ -76,5 +76,5 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
 
 ### level 1
 
-- [Linux User Setup with Non Interactive Shell](/curriculum/100daysofdevops/level_1/Day_1:_Linux_User_Setup_with_Non_Interactive_Shell/)
+- [Day 1: Linux User Setup with Non Interactive Shell](/curriculum/100daysofdevops/level_1/Day_1:_Linux_User_Setup_with_Non_Interactive_Shell/)
 
