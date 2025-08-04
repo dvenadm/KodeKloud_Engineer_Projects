@@ -68,7 +68,11 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
     - hostname: `jump_host.stratos.xfusioncorp.com`
     - purpose: `Jump Server to Access Stork DC`
 
+# Curriculum
 
+## 100 days of DevOps
+
+- See: [100daysofdevops](/curriculum/100daysofdevops)
 
 
 
