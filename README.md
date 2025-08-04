@@ -72,7 +72,5 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
 
 ## 100 days of DevOps
 
-- See: [100daysofdevops](/curriculum/100daysofdevops)
-
-
+- See: [100daysofdevops](/curriculum/100daysofdevops/level_1/Day_1:_Linux_User_Setup_with_Non_Interactive_Shell)
 
