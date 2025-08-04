@@ -14,12 +14,6 @@ Hi everyone 🗺️
 
 ![System Administratior](assets/system_administrator.png)
 
-
-
-
-
-
----
 ## About the platform
 
 [KodeKloud Engineer](https://kodekloud-engineer.com/#!/project_brief) is a platform which provides hands-on training on Cloud and DevOps technologies such as Docker, Kubernetes, Ansible, Linux and others.
@@ -30,10 +24,9 @@ Initially, you are hired as a SysAdmin but, through accumulating points by compl
 
 The company assigns you to the **Nautilus Marine** project, with the network infrastructure detailed [here](https://lucid.app/lucidchart/58e22de2-c446-4b49-ae0f-db79a3318e97/view?page=0_0#). Naturally, the employee will have to consult both the infrastructure diagram and more documentation in order to complete the tasls, especially the more complex they get, just as a real job.
 
----
 ## Project Nautilus Architecture
 ![Project Nautilus](assets/nautilus_architecture.png)
----
+
 # SSH commands
 
 | Service Name             | Command                     |
@@ -64,7 +57,6 @@ The company assigns you to the **Nautilus Marine** project, with the network inf
 | stmail01    | Nautilus Mail Server     | `sshpass -p Gr00T123 ssh -o StrictHostKeyChecking=no groot@172.16.238.17`   |
 | jenkins     | Jenkins Server for CI/CD | `sshpass -p 'j@rv!s' ssh -o StrictHostKeyChecking=no jenkins@172.16.238.19` |
 | ----------- | ------------------------ | --------------------------------------------------------------------------- |
----
 
 # Getting Started
 
